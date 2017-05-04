@@ -2,6 +2,8 @@
 Check out the releases, by using the "releases" above, or by going to:
 https://github.com/AdmiralDamage/DyeLiteLegacy/releases
 
+### Dyelite is not and never will be a "type in the color, get the perfect dye" program. It is only an aid to the process. It was never designed with giving you a 100% chance of getting your dye, in mind. It's purpose is to simply automate the process as arbitrarily as a computer can.
+
 # DyeLiteLegacy
 This repository houses my version of the DyeLite program for Mabinogi.
 
