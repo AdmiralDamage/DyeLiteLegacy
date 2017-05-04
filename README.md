@@ -13,3 +13,8 @@ This is the appearance of the application:
 
 
 ![alt text](http://i.imgur.com/fZJJ3St.png "DyeLite Legacy")
+
+
+As you can see it is much cleaner than it's older counterpart dubbed the "G12 'English' Version":
+
+![alt text](http://i.imgur.com/ynyzUB2.png "DyeLite G12")
