@@ -1,4 +1,4 @@
-# DO NOT USE THE CLONE/DOWNLOAD BUTTON! READ THIS!
+## Do *NOT* use the "*Clone or Download*" button! READ THIS!
 Check out the releases, by using the "releases" above, or by going to:
 https://github.com/AdmiralDamage/DyeLiteLegacy/releases
 
