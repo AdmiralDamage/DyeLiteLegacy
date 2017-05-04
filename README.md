@@ -22,4 +22,8 @@ As you can see it is much cleaner than it's older counterpart dubbed the "G12 'E
 
 Licensing stuff:
 
-The versions of this program produced under my work may not be distributed behind a paywall or adwall. They must only be distributed from this github. It is not allowed for people to collect revenue based on my or the previous authors' work, without them benefitting. It is none of my concern how you pay for your website hosting fees. This is a free tool. You have permission to link to this github and even the release pages.
+The versions of this program produced under my work may not be distributed behind a paywall or adwall. They must only be distributed from this github. It is not allowed for people to collect revenue based on my or the previous authors' work, without them benefitting. It is none of my concern how you pay for your website hosting fees. This is a free tool. You have permission to link to this github and even the release pages. 
+
+Private or personal redistribution (aka sharing between friends over say skype, google drive, etc) is entirely allowed, but only if it is not behind a paywall or adwall such as ad-fly. 
+
+You may not host these files on a public web server such as a forum, link to the release page or this page instead.
