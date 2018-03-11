@@ -2,6 +2,13 @@
 Check out the releases, by using the "releases" above, or by going to:
 https://github.com/AdmiralDamage/DyeLiteLegacy/releases
 
+## Do read the Issue tracker!
+There is a mandatory first step in setting up DyeLite for the Auto mode and some other helpful things to stop noobs, below are links to both.
+Mandatory setup:
+https://github.com/AdmiralDamage/DyeLiteLegacy/issues/1
+Issues/FAQ page:
+https://github.com/AdmiralDamage/DyeLiteLegacy/issues
+
 ### Dyelite is not and never will be a "type in the color, get the perfect dye" program. It is only an aid to the process. It was never designed with giving you a 100% chance of getting your dye, in mind. It's purpose is to simply automate the process as arbitrarily as a computer can.
 
 # DyeLiteLegacy
