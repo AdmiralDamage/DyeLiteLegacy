@@ -8,7 +8,7 @@ Mandatory setup:
 https://github.com/AdmiralDamage/DyeLiteLegacy/issues/1
 Issues/FAQ page:
 https://github.com/AdmiralDamage/DyeLiteLegacy/issues
-
+ 
 ### Dyelite is not and never will be a "type in the color, get the perfect dye" program. It is only an aid to the process. It was never designed with giving you a 100% chance of getting your dye, in mind. It's purpose is to simply automate the process as arbitrarily as a computer can.
 
 # DyeLiteLegacy
