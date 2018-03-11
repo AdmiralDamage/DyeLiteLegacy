@@ -4,8 +4,10 @@ https://github.com/AdmiralDamage/DyeLiteLegacy/releases
 
 ## Do read the Issue tracker!
 There is a mandatory first step in setting up DyeLite for the Auto mode and some other helpful things to stop noobs, below are links to both.
+
 Mandatory setup:
 https://github.com/AdmiralDamage/DyeLiteLegacy/issues/1
+
 Issues/FAQ page:
 https://github.com/AdmiralDamage/DyeLiteLegacy/issues
  
