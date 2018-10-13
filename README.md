@@ -1,3 +1,10 @@
+# This is now retired indefinitely as of the update posted 12th Oct 2018. This program is now defunct for all dyes (except the Direct Dye Ampoule with limited functionality to just reading the palette, however as previously known it will not automatically scan this particular dye type). 
+___
+### I have made strides towards a new version but a lack of interest in the game says my time is probably much more wisely spent studying and working. I will leave this project up as a repo for the forseeable future - as the name suggests, a legacy version - however it is pretty much useless now.
+___
+
+For those that still wish to download it:
+
 ## Do *NOT* use the "*Clone or Download*" button! READ THIS!
 Check out the releases, by using the "releases" above, or by going to:
 https://github.com/AdmiralDamage/DyeLiteLegacy/releases
@@ -16,9 +23,9 @@ https://github.com/AdmiralDamage/DyeLiteLegacy/issues
 # DyeLiteLegacy
 This repository houses my version of the DyeLite program for Mabinogi.
 
-I got fed up with people moaning about the issues in DyeLite and decided to fix them myself. I did the best I could with a resource editing program because the source code has been dead and lost since 2009, around 8 years at the time of writing this message, but beyond what is currently done, not much else can be done to save this program. It is for it's original intent and purpose, still 95% functional. This repository will only ever have the most minor fixes done, nothing really functionality wise, probably only the readme or new korean text that I discover.
+I saw the issues in DyeLite and decided to attempt a repair myself. I did the best I could with a resource editing program because the source code has been dead and lost since 2009, around 8 years at the time of writing this message, but beyond what is currently done, not much else can be done to save this program. It is for it's original intent and purpose, still 95% functional (Dead as of 13th Oct 2018). This repository will only ever have the most minor fixes done, nothing really functionality wise, probably only the readme or new korean text that I discover.
 
-In the meantime, I am working on a new utility to replace this and others, do not message me about it, it will be out when it is out.
+In the meantime, I am working on a new utility to replace this and others, do not message me about it, it will be out when it is out, if I ever feel like working on it properly.
 
 This is the appearance of the application:
 
