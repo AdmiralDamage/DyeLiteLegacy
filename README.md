@@ -1,4 +1,4 @@
-# This is now retired indefinitely as of the update posted 12th Oct 2018. This program is now defunct for all dyes (except the Direct Dye Ampoule with limited functionality to just reading the palette, however as previously known it will not automatically scan this particular dye type). 
+# This is now retired indefinitely as of the update posted 12th Oct 2018. This program is now defunct for all dyes (except the Direct Dye Ampoule with limited functionality to just reading the palette, however as previously known it will not automatically scan this particular dye type). It is not possible to use this in any other mode than MANUAL ONLY.
 ___
 ### I have made strides towards a new version but a lack of interest in the game says my time is probably much more wisely spent studying and working. I will leave this project up as a repo for the forseeable future - as the name suggests, a legacy version - however it is pretty much useless now.
 ___
