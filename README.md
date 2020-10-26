@@ -11,9 +11,9 @@ There was another feature hiding in the program that helps us address this, howe
 6. Press the "Yes" button after identifying that the Color will change. This automatically changes it, so no need to type anything out.
 7. Scan as usual, test with a few scans for black or white. Auto  mode should be working.
 
-I will update both the manual and the issue tracker to contain this information. Took me a while to find this but I hope it helps you and keeps our favourite tool going for many more years.
+I have updated both my user manual and the issue tracker to contain this information in addition to this page. It took a while to figure this out but I hope it helps you and keeps our favourite dye tool going for many more years.
 ___
-### I have made strides towards a new version but a lack of interest in the game says my time is probably much more wisely spent studying and working. I will leave this project up as a repo for the forseeable future - as the name suggests, a legacy version - however it is pretty much useless now.
+### I have made strides towards a new version but a lack of interest in the game says my time is probably much more wisely spent studying and working. I will leave this project up as a repo for the forseeable future - as the name suggests, a legacy version, but features still all mostly work.
 ___
 
 For those that still wish to download it:
@@ -36,7 +36,7 @@ https://github.com/AdmiralDamage/DyeLiteLegacy/issues
 # DyeLiteLegacy
 This repository houses my version of the DyeLite program for Mabinogi.
 
-I saw the issues in DyeLite and decided to attempt a repair myself. I did the best I could with a resource editing program because the source code has been dead and lost since 2009, around 8 years at the time of writing this message, but beyond what is currently done, not much else can be done to save this program. It is for it's original intent and purpose, still 95% functional (Dead as of 13th Oct 2018). This repository will only ever have the most minor fixes done, nothing really functionality wise, probably only the readme or new korean text that I discover.
+I saw the issues in DyeLite and decided to attempt a repair myself. I did the best I could with a resource editing program because the source code has been dead and lost since 2009, around 8 years at the time of writing this message, but beyond what is currently done, not much else can be done to save this program. It is for it's original intent and purpose, still 95% functional. This repository will only ever have the most minor fixes done, nothing really functionality wise, probably only the readme or new korean text that I discover.
 
 In the meantime, I am working on a new utility to replace this and others, do not message me about it, it will be out when it is out, if I ever feel like working on it properly.
 
@@ -49,12 +49,13 @@ This is the appearance of the application:
 As you can see it is much cleaner than it's older counterpart dubbed the "G12 'English' Version":
 
 ![alt text](http://i.imgur.com/ynyzUB2.png "DyeLite G12")
-
-
+___
 Licensing stuff:
 
 The versions of this program produced under my work may not be distributed behind a paywall or adwall. They must only be distributed from this github. It is not allowed for people to collect revenue based on my or the previous authors' work, without them benefitting. It is none of my concern how you pay for your website hosting fees. This is a free tool. You have permission to link to this github and even the release pages. 
 
 Private or personal redistribution (aka sharing between friends over say skype, google drive, etc) is entirely allowed, but only if it is not behind a paywall or adwall such as ad-fly. 
 
-You may not host these files on a public web server such as a forum, link to the release page or this page instead.
+You may not host these files on a public web server such as a forum, link to the release page or this page instead. 
+___
+If you want to work with me for any reason on this, just shoot me a messsage. You know where you can find me.
